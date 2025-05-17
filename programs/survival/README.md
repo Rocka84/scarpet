@@ -21,6 +21,10 @@ Various scripts that modify various game elements, often replicating popular mod
 	When you break a block, the item gets tp-ed to player, and left on ground if the inventory is full.
 	Also works for inventory blocks, delaying the check until they are done to grab the items off the ground.
 
+### [bed_helper.sc](https://github.com/gnembon/scarpet/blob/master/programs/survival/bed_helper.sc):
+#### By foospils
+	Suppress "too far away" message for beds and optionally teleport to clicked bed.
+
 ### [bee_healing.sc](https://github.com/gnembon/scarpet/blob/master/programs/survival/bee_healing.sc):
 #### By Xendergo
 	Slowly heals bees, so you can have them on an island or near water without them drowning as much
